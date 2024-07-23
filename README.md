@@ -16,7 +16,8 @@ Guidelines
 10. Other Considerations
 
 
-1. Call of War is an online WW2 strategy game
-2. Links
+Call of War is an online WW2 strategy game
+
+Links
          [Wikipedia](https://www.callofwar.com/)
    
